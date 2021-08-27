@@ -4,3 +4,23 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+#wrapper {
+}
+
+#header {
+}
+
+#slider {
+}
+
+#container {
+}
+
+.content {
+  height: 50px;
+  background: blue;
+}
+
+#footer {
+}
