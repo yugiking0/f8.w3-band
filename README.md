@@ -1,3 +1,3 @@
 # f8.w3-band
 
-link xem được chưa?
+https://yugiking0.github.io/f8.w3-band
